@@ -10,3 +10,9 @@
 	path = user-service
 	url = https://github.com/nekusu/mindhub-rp-user-service
 	branch = sync-communications
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/nekusu/mindhub-rp-api-gateway
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/nekusu/mindhub-rp-eureka-server
