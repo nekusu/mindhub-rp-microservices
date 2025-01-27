@@ -1,15 +1,15 @@
 [submodule "product-service"]
 	path = product-service
 	url = https://github.com/nekusu/mindhub-rp-product-service
-	branch = sync-communications
+	branch = api-gateway
 [submodule "order-service"]
 	path = order-service
 	url = https://github.com/nekusu/mindhub-rp-order-service
-	branch = sync-communications
+	branch = api-gateway
 [submodule "user-service"]
 	path = user-service
 	url = https://github.com/nekusu/mindhub-rp-user-service
-	branch = sync-communications
+	branch = api-gateway
 [submodule "api-gateway"]
 	path = api-gateway
 	url = https://github.com/nekusu/mindhub-rp-api-gateway
