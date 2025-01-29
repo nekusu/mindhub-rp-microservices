@@ -16,3 +16,6 @@
 [submodule "eureka-server"]
 	path = eureka-server
 	url = https://github.com/nekusu/mindhub-rp-eureka-server
+[submodule "email-service"]
+	path = email-service
+	url = https://github.com/nekusu/mindhub-rp-email-service
